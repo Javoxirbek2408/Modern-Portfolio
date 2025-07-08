@@ -19,7 +19,22 @@ body {
 .nav {
   background: linear-gradient(103.4deg, #04071d 16.66%, #0c0e23 81.61%);
 }
-.hedBtn{
-    background: linear-gradient(90deg, #161A31 3.4%, #06091F 100%) !important;
+.hedBtn {
+  background: linear-gradient(90deg, #161a31 3.4%, #06091f 100%) !important;
+}
 
+.cartBtn {
+  background: linear-gradient(
+    90deg,
+    rgba(22, 26, 49, 0.3) 3.4%,
+    rgba(6, 9, 31, 0.3) 100%
+  );
+  color: white;
+  border-color: #272a3c80;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 10px;
+  line-height: 120%;
+  letter-spacing: -0.37px;
+  vertical-align: middle;
 }

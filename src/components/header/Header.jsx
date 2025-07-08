@@ -58,7 +58,7 @@ export const Header = () => {
             Uzbekistan.
           </p>
         </div>
-        <Button className="hedBtn !mt-[16px] containerr !h-[60px] !text-white !border-gray-500 ">
+        <Button className="hedBtn !mt-[16px] containerr !h-[60px] !text-white !border-gray-500 !hover:bg-[#151930] ">
           See my work <ArrovTop />
         </Button>
       </div>
